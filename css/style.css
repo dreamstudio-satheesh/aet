@@ -3218,7 +3218,6 @@ textarea.form-control{height: 150px !important;}
   .header-wrap .col-lg-6{max-width: 75%; flex: 75%;}
   .navbar-light .navbar-nav .nav-link{padding: 34px 16px;}
   .header-wrap .logo{text-align: center; background: #f3f3f3; padding: 15px;  }
-  .logo-default {position: absolute; z-index: 1000; width: 380px; height: 150px; }
   .class-wrap .owl-nav{display: none;}
 .blog_inner .blog_box h3 a{font-size: 20px;}
   #counter {
@@ -3289,7 +3288,6 @@ textarea.form-control{height: 150px !important;}
   .blog_listWrp .blog_box{max-width: 370px; margin: 0 auto 30px auto;}
   .blog_listWrp .blog_box .path_box{padding: 30px;}
   .header-wrap .logo{background: none; text-align: left; padding: 0;}
-  .logo-default{position: absolute; z-index: 1000; width: 380px; height: 150px; }
   .categories_wrap{margin-top: 0;}
   .categories_wrap ul li{margin-top: 100px;}
   .coure-icon-inner{box-shadow:0 0 15px rgb(0 0 0 / 15%);}
