@@ -124,9 +124,12 @@ ul.tick li {
 /********************************************
 	   == Header Css Start ==
 ********************************************/
-.header-wrap {
+
+.header-wrap .logo{margin-top: 6px;
+  position: absolute;
+  z-index: 1000;
+
 }
-.header-wrap .logo{margin-top: 6px;}
 .header-wrap .conInfo {
   padding-left: 52px;
   position: relative;
@@ -3208,12 +3211,13 @@ textarea.form-control{height: 150px !important;}
 .navbar-light .navbar-nav .nav-link{padding: 34px 16px;}
 }
 
+
 @media screen and (max-width:1350px) {
 .navbar-light .navbar-nav .nav-link{padding: 34px 10px;}
 }
 
-
 @media screen and (max-width:1200px) {
+
   .header-wrap .navbar-light{max-width: 100%; display: block; flex: auto;}
   .header-wrap .col-lg-6{max-width: 75%; flex: 75%;}
   .navbar-light .navbar-nav .nav-link{padding: 34px 16px;}
@@ -3278,7 +3282,7 @@ textarea.form-control{height: 150px !important;}
 
 
 @media screen and (max-width:990px) { 
-  .top-logo{position: absolute; z-index: 1000; width: 380px; height: 150px; }
+    
   .sidebar {
     margin-top: 30px;
   }
