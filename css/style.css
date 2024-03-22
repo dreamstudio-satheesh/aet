@@ -1589,7 +1589,7 @@ a.slidebtn i {
    Testimonials section              
 -----------------------------------------*/
 .testimonials-wrap {
-  padding: 60px 0;
+  padding: 30px 0;
   text-align: center;
 }
 .testimonials_sec p {
@@ -1599,7 +1599,7 @@ a.slidebtn i {
   font-style: italic;
 }
 .testimonials-wrap .title {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 .testimonials-wrap .title:after {
   left: 50%;
@@ -1731,7 +1731,7 @@ button:focus {
 /*********************************************
         Enroll css
 *********************************************/
-.enroll-wrap{background: url(../images/enroll-bg.jpg) !important; padding: 100px 0;}
+.enroll-wrap{background: url(../images/enroll-bg.jpg) !important; padding: 50px 0;}
 .enroll-wrap .phonewrp img{margin-right: 15px;}
 .enroll-wrap .phonewrp a{font-size: 32px !important; color: #fff;}
 .enroll-wrap .title{margin-bottom: 15px;}
@@ -1797,7 +1797,7 @@ button:focus {
 /*********************************************
         Blog css
 *********************************************/
-.blog-wrap{background-image: none; background: #f8f8f8; padding: 60px 0;}
+.blog-wrap{background-image: none; background: #f8f8f8; padding: 30px 0;}
 .blog-wrap .title{text-align: center; margin-bottom: 40px;}
 .blog-wrap .title h1{color: #000;}
 .blog-wrap .blog_box{background: #fff;}
