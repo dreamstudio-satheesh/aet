@@ -3221,7 +3221,7 @@ textarea.form-control{height: 150px !important;}
   .header-wrap .navbar-light{max-width: 100%; display: block; flex: auto;}
   .header-wrap .col-lg-6{max-width: 75%; flex: 75%;}
   .navbar-light .navbar-nav .nav-link{padding: 34px 16px;}
-  .header-wrap .logo{text-align: center; background: #f3f3f3; padding: 15px;  }
+  .header-wrap .logo{text-align: center; background: #f3f3f3; padding: 15px;     position: unset; }
   .class-wrap .owl-nav{display: none;}
 .blog_inner .blog_box h3 a{font-size: 20px;}
   #counter {
