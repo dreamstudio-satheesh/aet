@@ -29,6 +29,7 @@ p {
   font-size: 14px;
   line-height: 26px;
   color: #52575e;
+  text-align: justify;
 }
 .style_none {
   list-style: none;
@@ -64,6 +65,7 @@ ul.tick li {
 .title {
   margin-bottom: 20px;
   position: relative;
+  text-align: center;
 }
 .title h1 {
   font-size: 48px;
@@ -860,7 +862,9 @@ a.slidebtn i {
   font-size: 14px;
   line-height: 24px;
   color: #322c2c;
-  margin-bottom: 0; min-height: 80px;
+  margin-bottom: 0; 
+  min-height: 80px;
+  text-align: justify;
 }
 .class-wrap .owl-dots {
   display: none;
@@ -935,6 +939,7 @@ a.slidebtn i {
   color: #000;
   font-size: 14px;
   padding: 0 140px;
+  text-align: justify;
 }
 .callText {
   font-size: 24px;
@@ -1731,7 +1736,7 @@ button:focus {
 .enroll-wrap .phonewrp a{font-size: 32px !important; color: #fff;}
 .enroll-wrap .title{margin-bottom: 15px;}
 .enroll-wrap .title h1{color: #fff;}
-.enroll-wrap p{font-size: 16px; color: #fff;}
+.enroll-wrap p{font-size: 16px; color: #fff; text-align: center;}
 
 
 
@@ -2115,6 +2120,14 @@ button:focus {
 *********************************************/
 .footer-wrap{background: #232936; background-size: cover; padding: 50px 0 20px 0;}
 .footer-wrap p{font-size: 14px; color:#bcc5d0; margin-top: 15px;}
+.footer-container {    
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1340px;
+}
 
 .footer-wrap h3{font-size: 18px; margin-bottom: 20px; display: inline-block; font-weight: bold; font-family: 'Open Sans', sans-serif; color: #fff; margin-bottom: 25px;}
 .footer-links{list-style:none; margin-bottom: 0;}
